@@ -7,7 +7,7 @@ https://play.unity.com/api/v1/games/game/1eacb3f3-f722-4c5a-bebd-251bc0797a7e/bu
 
 
 ## Summary
-In this project we were tasked with making a recreation of the arcade game, Asteroids, in Unity. The player uses their arrow keys that can rotate and accelerate, and the spacebar to shoot bullets, and destroy incoming asteroids.
+In this project we were tasked with making a recreation of the arcade game, Asteroids, in Unity. The player uses their arrow keys that can rotate and accelerate, and the spacebar to shoot bullets, and destroy incoming asteroids. I used this video for reference: https://www.youtube.com/watch?v=wzQ9Xn406wc
 
 
 ## Additional Features Added 
